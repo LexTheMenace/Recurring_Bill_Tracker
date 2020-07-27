@@ -1,0 +1,7 @@
+{"bills": [
+    {"id": 1,"merchant": "Netflix",        "cat": "Entertainment", "amt": 15, "due": 14, "cardNum": 8362},
+    {"id": 2,"merchant": "Planet Fitness", "cat": "Gym",           "amt": 20, "due": 17, "cardNum": 4869},
+    {"id": 3,"merchant": "Sirius XM",      "cat": "Entertainment", "amt": 9, "due": 8, "cardNum": 8362},
+    {"id": 4,"merchant": "Scribd",         "cat": "Books",         "amt": 9, "due": 1, "cardNum": 4395},
+    {"id": 5,"merchant": "MyAptName",      "cat":"Rent",           "amt": 600, "due": 1, "cardNum": 8362}
+]}
